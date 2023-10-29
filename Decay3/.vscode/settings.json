@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Dacay2.sln"
+    "dotnet.defaultSolution": "Decay3.sln"
 }

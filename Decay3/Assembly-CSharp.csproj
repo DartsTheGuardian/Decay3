@@ -72,6 +72,7 @@
     <Compile Include="Assets\[Darts]\LVLUp.cs" />
     <Compile Include="Assets\[Darts]\Spawner.cs" />
     <Compile Include="Assets\ABY\Chara control.cs" />
+    <Compile Include="Assets\[Darts]\BeginGame.cs" />
     <Compile Include="Assets\[Darts]\EnemyStats.cs" />
     <Compile Include="Assets\[Darts]\EndGame.cs" />
     <Compile Include="Assets\[Darts]\Timer.cs" />
