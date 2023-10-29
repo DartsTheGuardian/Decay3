@@ -1,0 +1,784 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.9f1 (ea401c316338) revision 15351836'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'fr' Physical Memory: 16236 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Aby/Documents/GitHub/Decay2/Dacay2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+58917
+=======
+55466
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+Successfully changed project path to: C:/Users/Aby/Documents/GitHub/Decay2/Dacay2
+C:/Users/Aby/Documents/GitHub/Decay2/Dacay2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+Player connection [18272] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 2161649839 [EditorId] 2161649839 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QHA42NH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [18272] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 2161649839 [EditorId] 2161649839 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QHA42NH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 21.99 ms, found 4 plugins.
+=======
+Player connection [2896] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 3568845671 [EditorId] 3568845671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QHA42NH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [2896] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 3568845671 [EditorId] 3568845671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QHA42NH) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Refreshing native plugins compatible for Editor in 23.13 ms, found 4 plugins.
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.9f1 (ea401c316338)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Aby/Documents/GitHub/Decay2/Dacay2/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
+    Vendor:   NVIDIA
+    VRAM:     8044 MB
+    Driver:   30.0.15.1236
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56756
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56392
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+Registered in 0.020181 seconds.
+- Loaded All Assemblies, in  0.516 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.405 seconds
+Domain Reload Profiling: 915ms
+	BeginReloadAssembly (162ms)
+=======
+Registered in 0.027856 seconds.
+- Loaded All Assemblies, in  0.799 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.482 seconds
+Domain Reload Profiling: 1275ms
+	BeginReloadAssembly (247ms)
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (102ms)
+	LoadAllAssembliesAndSetupDomain (185ms)
+		LoadAssemblies (157ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (182ms)
+			TypeCache.Refresh (180ms)
+				TypeCache.ScanAssembly (166ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (406ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (323ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (215ms)
+			ProcessInitializeOnLoadMethodAttributes (80ms)
+=======
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (102ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (130ms)
+	LoadAllAssembliesAndSetupDomain (291ms)
+		LoadAssemblies (243ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (286ms)
+			TypeCache.Refresh (283ms)
+				TypeCache.ScanAssembly (258ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (482ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (366ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (240ms)
+			ProcessInitializeOnLoadMethodAttributes (92ms)
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+- Loaded All Assemblies, in  1.067 seconds
+Refreshing native plugins compatible for Editor in 9.86 ms, found 4 plugins.
+=======
+- Loaded All Assemblies, in  1.484 seconds
+Refreshing native plugins compatible for Editor in 8.09 ms, found 4 plugins.
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+- Finished resetting the current domain, in  0.928 seconds
+Domain Reload Profiling: 1986ms
+	BeginReloadAssembly (245ms)
+=======
+- Finished resetting the current domain, in  1.032 seconds
+Domain Reload Profiling: 2505ms
+	BeginReloadAssembly (283ms)
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (64ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (82ms)
+	LoadAllAssembliesAndSetupDomain (650ms)
+		LoadAssemblies (556ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (245ms)
+			TypeCache.Refresh (206ms)
+				TypeCache.ScanAssembly (185ms)
+			ScanForSourceGeneratedMonoScriptInfo (31ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (929ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (701ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (129ms)
+			ProcessInitializeOnLoadAttributes (486ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Failed to load shader (instanceID 404, GUID 7cbb3655339ec401ca75ba5fe26884f4)
+Failed to load shader (instanceID 406, GUID bedd19944f451ba4d83e7ed69be98d5c)
+Failed to load shader (instanceID 400, GUID 3230fdc399f8287488325e5941a00527)
+Failed to load shader (instanceID 408, GUID 9c442dc870b456e48b615cd8add0e9ef)
+Failed to load shader (instanceID 402, GUID 603d454d711fe784cba9ce08dd22b881)
+Failed to load shader (instanceID 398, GUID 0a8f4dcd626bcd14bbbfa5a5e116b16e)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 15.38 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4034 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 63 unused Assets / (60.5 KB). Loaded Objects now: 4498.
+Memory consumption went from 139.5 MB to 139.5 MB.
+Total: 5.615800 ms (FindLiveObjects: 0.359900 ms CreateObjectMapping: 0.315800 ms MarkObjects: 4.752200 ms  DeleteObjects: 0.187000 ms)
+=======
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (60ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (124ms)
+	LoadAllAssembliesAndSetupDomain (984ms)
+		LoadAssemblies (745ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (386ms)
+			TypeCache.Refresh (342ms)
+				TypeCache.ScanAssembly (310ms)
+			ScanForSourceGeneratedMonoScriptInfo (35ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1032ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (685ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (126ms)
+			ProcessInitializeOnLoadAttributes (454ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 9.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4020 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 63 unused Assets / (60.5 KB). Loaded Objects now: 4482.
+Memory consumption went from 137.5 MB to 137.5 MB.
+Total: 6.237900 ms (FindLiveObjects: 0.414800 ms CreateObjectMapping: 0.363700 ms MarkObjects: 5.270100 ms  DeleteObjects: 0.187800 ms)
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+  Time since last request: 1279052.211453 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(7bb93886a822a684ea7bf0a0d74526a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(7bb93886a822a684ea7bf0a0d74526a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5524e125d5ca51b02928ddf2f8962006') in 0.003331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1939.186649 seconds.
+  path: Assets/tilemap/Sprite-0007_1.asset
+  artifactKey: Guid(36df5705e13849940a963f20dc4f9522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_1.asset using Guid(36df5705e13849940a963f20dc4f9522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00ca89b33b2eb33515d864c15a1cd22') in 0.090078 seconds
+=======
+  Time since last request: 1274065.726505 seconds.
+  path: Assets/ABY/cursor.png
+  artifactKey: Guid(b390cc8b9665fd743b1fb796b25f3c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ABY/cursor.png using Guid(b390cc8b9665fd743b1fb796b25f3c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ef8a8339f891947dbe8a1b29d097d8') in 0.196074 seconds
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+<<<<<<< Updated upstream:Dacay2/Logs/AssetImportWorker1-prev.log
+  Time since last request: 0.000029 seconds.
+  path: Assets/tilemap/Sprite-0007_35.asset
+  artifactKey: Guid(8819acb28aa65284181397dd780878a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_35.asset using Guid(8819acb28aa65284181397dd780878a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7782c5d64ca76cc111a89727ac8a125') in 0.015898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/tilemap/Sprite-0007_14.asset
+  artifactKey: Guid(60ca49263a86389478aabfe592191639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_14.asset using Guid(60ca49263a86389478aabfe592191639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0635b6c1ccf3a2fef4909ce15e9a67e') in 0.012911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/tilemap/Sprite-0007_20.asset
+  artifactKey: Guid(9c2f2a40d7269774fb96585536d5cb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_20.asset using Guid(9c2f2a40d7269774fb96585536d5cb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af261d782d089da3e4d5afee6029970e') in 0.012520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/tilemap/Sprite-0007_10.asset
+  artifactKey: Guid(7c4d8133e8a73ff45803efce384a1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_10.asset using Guid(7c4d8133e8a73ff45803efce384a1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142f4a5b765b9cadf3292b0a883ddd59') in 0.016977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/tilemap/Sprite-0007_13.asset
+  artifactKey: Guid(884b979c0b24e3542b60e84e888dde7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_13.asset using Guid(884b979c0b24e3542b60e84e888dde7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ac507273f8005190603b3f3feb81c4') in 0.013669 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/tilemap/Sprite-0007_4.asset
+  artifactKey: Guid(4b5b103ef63a2264d9e5b669fa354c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_4.asset using Guid(4b5b103ef63a2264d9e5b669fa354c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5c0ac717ac7142a6e6faa9fcc8682e') in 0.015352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/tilemap/Sprite-0007_29.asset
+  artifactKey: Guid(1ddbe6d8b54ad1843a7793e77eed1038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_29.asset using Guid(1ddbe6d8b54ad1843a7793e77eed1038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc74fa421f3dd8590a81059dd6f62c1') in 0.013166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/tilemap/Sprite-0007_34.asset
+  artifactKey: Guid(4959db04aa0b35c4ab0090f628504292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_34.asset using Guid(4959db04aa0b35c4ab0090f628504292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3879f6661bda598b4a53b090faefb47e') in 0.018922 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/tilemap/Sprite-0007_22.asset
+  artifactKey: Guid(44467e99c7b7d8e408688597d9270159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_22.asset using Guid(44467e99c7b7d8e408688597d9270159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f1fd5ae7729adb3e75bfdb4bb2b3c3') in 0.013818 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/tilemap/Sprite-0007_38.asset
+  artifactKey: Guid(3869f442cc2188245932cb26398bd299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_38.asset using Guid(3869f442cc2188245932cb26398bd299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5fedf7c11d024e51226bf70c55975e1') in 0.014701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilemap/Sprite-0007_28.asset
+  artifactKey: Guid(d19914189a7909e44b07b5829543a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_28.asset using Guid(d19914189a7909e44b07b5829543a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4659a905180886b2e48577162e5c1e6b') in 0.014186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/tilemap/Sprite-0007_5.asset
+  artifactKey: Guid(b8521c2a8c19ddf4f9175b3dd2ec6fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_5.asset using Guid(b8521c2a8c19ddf4f9175b3dd2ec6fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96245888fef08d9cfd83d0853b7334e') in 0.013908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/tilemap/Sprite-0007_37.asset
+  artifactKey: Guid(51b3f164faef7b243880517237de8193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_37.asset using Guid(51b3f164faef7b243880517237de8193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80f9e0fcc76fb6e48103697aa1792203') in 0.015647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/tilemap/Sprite-0007_32.asset
+  artifactKey: Guid(4e47c15b0951b9c47a4b6bb1c61dfaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_32.asset using Guid(4e47c15b0951b9c47a4b6bb1c61dfaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b3f8397286bffe5ff98c9bd8424bd9') in 0.013828 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/tilemap/Sprite-0007_39.asset
+  artifactKey: Guid(c73707ffaf502cf4dbd9321355cde357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_39.asset using Guid(c73707ffaf502cf4dbd9321355cde357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a083a2163260a360d39863a923ace7b') in 0.016564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/tilemap/Sprite-0007_7.asset
+  artifactKey: Guid(031c5990c7e881b4db661d26cde5a990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_7.asset using Guid(031c5990c7e881b4db661d26cde5a990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f26846b2dba6c00b20748a918d39ce') in 0.016366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/tilemap/Sprite-0007_15.asset
+  artifactKey: Guid(a53df193ad79b2c4b98bfa6d9869822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_15.asset using Guid(a53df193ad79b2c4b98bfa6d9869822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b557187aafe14d98a4b20fd55c619936') in 0.021414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.939166 seconds.
+  path: Assets/tilemap/Sprite-0007_42.asset
+  artifactKey: Guid(c83778ab6b204be40af3ab8887224e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_42.asset using Guid(c83778ab6b204be40af3ab8887224e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3250e84b52ebad866daf875eff730869') in 0.024043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/tilemap/Sprite-0007_46.asset
+  artifactKey: Guid(a90db8e1d15dbf44b9fa5bc695c4cb4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_46.asset using Guid(a90db8e1d15dbf44b9fa5bc695c4cb4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76f74d9f517693070cec9578a829224') in 0.012716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/tilemap/Sprite-0007_55.asset
+  artifactKey: Guid(e0f1497fce37fa846907b6c37ac3909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_55.asset using Guid(e0f1497fce37fa846907b6c37ac3909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8931f3815d8b2b687ba0d8d07c99ffc4') in 0.011521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/tilemap/Sprite-0007_45.asset
+  artifactKey: Guid(afdaf9a4c1b510a40bfa097ded08a376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_45.asset using Guid(afdaf9a4c1b510a40bfa097ded08a376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68551223f68515f87aa4854a729da193') in 0.013657 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/tilemap/Sprite-0007_52.asset
+  artifactKey: Guid(9bdf87edd3e89ac4f81e33fa9311c5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_52.asset using Guid(9bdf87edd3e89ac4f81e33fa9311c5c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d58dc13d21abd4a376db4a7e1c0a338') in 0.014188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/tilemap/Sprite-0007_54.asset
+  artifactKey: Guid(c13152a05502ea246aaa932613e84f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_54.asset using Guid(c13152a05502ea246aaa932613e84f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d3047207032b12add9dde11d546ec10') in 0.013674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/tilemap/Sprite-0007_53.asset
+  artifactKey: Guid(93bd33d64c637704b8e1f4ec20d9e42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_53.asset using Guid(93bd33d64c637704b8e1f4ec20d9e42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b871d85e0f5dada75aaed79efc652c') in 0.011082 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 517.620395 seconds.
+  path: Assets/tilemap/Sprite-0007_0.asset
+  artifactKey: Guid(41cfa2ef8f18fbc4f8975bcb55fdc516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_0.asset using Guid(41cfa2ef8f18fbc4f8975bcb55fdc516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec40702d24dc560e74d146d28176485') in 0.015392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.003782 seconds.
+  path: Assets/tilemap/Sprite-0007_2.asset
+  artifactKey: Guid(985a179ef8b3126448e16c1558f5d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_2.asset using Guid(985a179ef8b3126448e16c1558f5d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efda4ee5fd862d414ec48a34a34a7fae') in 0.007730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/tilemap/Sprite-0007_15.asset
+  artifactKey: Guid(a53df193ad79b2c4b98bfa6d9869822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_15.asset using Guid(a53df193ad79b2c4b98bfa6d9869822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffadbf1d17632d5c24e6b0bf79ac6422') in 0.016400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/tilemap/Sprite-0007_23.asset
+  artifactKey: Guid(56696909c8b68574b9d6c976ca8b20b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_23.asset using Guid(56696909c8b68574b9d6c976ca8b20b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feff685c9867ea03fa6d6ec08d5dccd7') in 0.013948 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/tilemap/Sprite-0007_11.asset
+  artifactKey: Guid(21a4546b37e508e48a8189d0b6f9ae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_11.asset using Guid(21a4546b37e508e48a8189d0b6f9ae34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec7cba594dc9ce012b5da63aba11a72d') in 0.015731 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/tilemap/Sprite-0007_26.asset
+  artifactKey: Guid(c047637f7864fc54b9a8739abc526ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_26.asset using Guid(c047637f7864fc54b9a8739abc526ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd79e21b052b9d932e2ff7799fc7663') in 0.006413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/tilemap/Sprite-0007_24.asset
+  artifactKey: Guid(0760792046daa6d458bc2c93265f593c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_24.asset using Guid(0760792046daa6d458bc2c93265f593c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccc96ddddad9743c508bf231a32e8627') in 0.026744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/tilemap/Sprite-0007_35.asset
+  artifactKey: Guid(8819acb28aa65284181397dd780878a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_35.asset using Guid(8819acb28aa65284181397dd780878a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b393c8de856c21a3e9b52f4e65aceb') in 0.007796 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/tilemap/Sprite-0007_17.asset
+  artifactKey: Guid(a625a4a7cd3656e4095214b0000aaa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_17.asset using Guid(a625a4a7cd3656e4095214b0000aaa1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f527ba1453196dd05ca21078231deec') in 0.012485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/tilemap/Sprite-0007_14.asset
+  artifactKey: Guid(60ca49263a86389478aabfe592191639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_14.asset using Guid(60ca49263a86389478aabfe592191639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8968de311f8c96fc85880ed652ac6f') in 0.018473 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/tilemap/Sprite-0007_21.asset
+  artifactKey: Guid(3288fa046e637f744a170dd0afd6ea08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_21.asset using Guid(3288fa046e637f744a170dd0afd6ea08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e6f88d5ae89ed56b052f08e19f9fc15') in 0.026450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/tilemap/Sprite-0007_20.asset
+  artifactKey: Guid(9c2f2a40d7269774fb96585536d5cb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_20.asset using Guid(9c2f2a40d7269774fb96585536d5cb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89aaaa1dc5d90c1f5fa38ec7a8e56932') in 0.016128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/tilemap/Sprite-0007_12.asset
+  artifactKey: Guid(f8187b3a739ac6545b4d338a03ee68ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_12.asset using Guid(f8187b3a739ac6545b4d338a03ee68ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e703a5f8f5d8a4858bd2078a05cd7d') in 0.013107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilemap/Sprite-0007_10.asset
+  artifactKey: Guid(7c4d8133e8a73ff45803efce384a1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_10.asset using Guid(7c4d8133e8a73ff45803efce384a1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e31360ef952d1f8a1997f70ca7025e8') in 0.029801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilemap/Sprite-0007_8.asset
+  artifactKey: Guid(23d5196d0958d5b4c9c17727a6575433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_8.asset using Guid(23d5196d0958d5b4c9c17727a6575433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbf13aa7f711d937093cc52fe407c6a') in 0.004808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/tilemap/Sprite-0007_13.asset
+  artifactKey: Guid(884b979c0b24e3542b60e84e888dde7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_13.asset using Guid(884b979c0b24e3542b60e84e888dde7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '091b0da745b0f6bf66313ec61f94f072') in 0.005086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/tilemap/Sprite-0007_4.asset
+  artifactKey: Guid(4b5b103ef63a2264d9e5b669fa354c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_4.asset using Guid(4b5b103ef63a2264d9e5b669fa354c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46aae7c9527d7fd0b6d3b46727ee8a04') in 0.013064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/tilemap/Sprite-0007_16.asset
+  artifactKey: Guid(fc02010245482224daac4f2b3a0442f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_16.asset using Guid(fc02010245482224daac4f2b3a0442f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3235d5e602197809caf5e4656d0e410') in 0.010842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/tilemap/Sprite-0007_33.asset
+  artifactKey: Guid(37dafa465afb2b447b2f738ac6e3dba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_33.asset using Guid(37dafa465afb2b447b2f738ac6e3dba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9564a9706ebb381e126683be7593d885') in 0.005336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/tilemap/Sprite-0007_29.asset
+  artifactKey: Guid(1ddbe6d8b54ad1843a7793e77eed1038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_29.asset using Guid(1ddbe6d8b54ad1843a7793e77eed1038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2651ae786d5fda5ea0cf7f34ef70c2ab') in 0.007049 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilemap/Sprite-0007_25.asset
+  artifactKey: Guid(c7b074282c1d1134d8dcbcaeaf3546e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_25.asset using Guid(c7b074282c1d1134d8dcbcaeaf3546e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b7bd703652e56b07434f9d8b15a7b1') in 0.004651 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/tilemap/Sprite-0007_34.asset
+  artifactKey: Guid(4959db04aa0b35c4ab0090f628504292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_34.asset using Guid(4959db04aa0b35c4ab0090f628504292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff05eb17540068845dcb9d09c8880b98') in 0.005406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilemap/Sprite-0007_3.asset
+  artifactKey: Guid(786f36610d30def4d90a075d685b6f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_3.asset using Guid(786f36610d30def4d90a075d685b6f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b83fa395e9bc524db00a021d7409b8b') in 0.005637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilemap/Sprite-0007_22.asset
+  artifactKey: Guid(44467e99c7b7d8e408688597d9270159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_22.asset using Guid(44467e99c7b7d8e408688597d9270159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0073008381dd2330587acbfb7258a28b') in 0.005610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/tilemap/Sprite-0007_27.asset
+  artifactKey: Guid(d6a4e0c8b96cda24794b2563f8a20254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_27.asset using Guid(d6a4e0c8b96cda24794b2563f8a20254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4570f8703d05b1399d3412e5dad0684') in 0.005686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/tilemap/Sprite-0007_38.asset
+  artifactKey: Guid(3869f442cc2188245932cb26398bd299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_38.asset using Guid(3869f442cc2188245932cb26398bd299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6b80a1e076f08c8c956586ddc08694') in 0.005175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/tilemap/Sprite-0007_19.asset
+  artifactKey: Guid(609570406a194fb46b08e89dfe8310b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_19.asset using Guid(609570406a194fb46b08e89dfe8310b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d091159b21add06edb988973d918732') in 0.008664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/tilemap/Sprite-0007_28.asset
+  artifactKey: Guid(d19914189a7909e44b07b5829543a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_28.asset using Guid(d19914189a7909e44b07b5829543a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4db136c9c414518c31fb9faac3be56') in 0.010090 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/tilemap/Sprite-0007_5.asset
+  artifactKey: Guid(b8521c2a8c19ddf4f9175b3dd2ec6fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_5.asset using Guid(b8521c2a8c19ddf4f9175b3dd2ec6fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2abeac3baeee156c10893f19c55fb7a') in 0.014010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/tilemap/Sprite-0007_36.asset
+  artifactKey: Guid(321ff5f9dae720f469b171589820509e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_36.asset using Guid(321ff5f9dae720f469b171589820509e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114f39f45c290d4f6c86775283183e30') in 0.006454 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/tilemap/Sprite-0007_31.asset
+  artifactKey: Guid(d4f60b47da81c4947802d23e1f5b7119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_31.asset using Guid(d4f60b47da81c4947802d23e1f5b7119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c401eaad0227497553820f42bffcc77a') in 0.005949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/tilemap/Sprite-0007_18.asset
+  artifactKey: Guid(f2f9d7df7da1bfb4b8460347680359fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_18.asset using Guid(f2f9d7df7da1bfb4b8460347680359fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9457c3ca1519c6aabc36fdb105f666d9') in 0.005346 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/tilemap/Sprite-0007_6.asset
+  artifactKey: Guid(bae66f173b361f54484f60df687c8b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilemap/Sprite-0007_6.asset using Guid(bae66f173b361f54484f60df687c8b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c146cb78d43c6d9da235eaf9562494') in 0.005757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+=======
+  Time since last request: 0.000204 seconds.
+  path: Assets/ABY/Sprite-0001.png
+  artifactKey: Guid(b35bd908a88966e43820e8e7e73ade19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ABY/Sprite-0001.png using Guid(b35bd908a88966e43820e8e7e73ade19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5bb791e439bab64013b13ad46ca913') in 0.060409 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+>>>>>>> Stashed changes:Dacay2/Logs/AssetImportWorker0.log
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: L’opération d’entrée/sortie a été abandonnée en raison de l’arrêt d’un thread ou à la demande d’une application.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
